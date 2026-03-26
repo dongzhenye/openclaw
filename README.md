@@ -30,6 +30,22 @@ The wizard guides you step by step through setting up the gateway, workspace, ch
 Works with npm, pnpm, or bun.
 New install? Start here: [Getting started](https://docs.openclaw.ai/start/getting-started)
 
+## Shipping Window
+
+Operational know-how around OpenClaw has a very short half-life.
+
+This can be frustrating because it often blocks real work, but the value decays fast:
+- In open source, rough edges are often fixed or improved within days or weeks; sometimes the right move is simply to wait.
+- In personal workflow, many hard-won tricks become public baseline knowledge within months through free docs, repos, and community writeups.
+
+So the strategy should be:
+- **Ship fast when it creates leverage.** If a finding can drive distribution, product pull, or a compounding advantage (for example through Clawfix, FreshClaw, lead gen, packaging, or an upstream improvement), act quickly.
+- **Reduce investment when it does not create leverage.** If a debugging path is unlikely to compound, be disciplined about limiting time spent on deep investigations and bespoke fixes.
+
+The goal is not to ignore problems. The goal is to distinguish between:
+- work that compounds,
+- and work whose shelf life is too short to justify heavy investment.
+
 ## Sponsors
 
 | OpenAI                                                            | Vercel                                                            | Blacksmith                                                                   | Convex                                                                |
